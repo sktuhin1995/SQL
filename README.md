@@ -1,2 +1,2 @@
 # SQL
-Dengue
+Dengue Disease Project
